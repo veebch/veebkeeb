@@ -20,3 +20,7 @@ If your use-case differs, you may want to use mappings tailored to your app of c
 1. You should see a 'Atmel DFU device connected' message
 
 1. Flash it (by clicking the ‘Flash’ button) and wait until the Veeb Keeb lights up again (it should only take a few seconds)
+
+## Contributing
+
+To contribute your own keymaps, please fork the repository and use a feature branch. Pull requests are welcome.
