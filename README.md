@@ -13,7 +13,7 @@ The macropad uses a ymdk/ymd09 board that can be remapped easily using [QMK](htt
 
 1. Open QMK-toolbox
 
-1. Select your image to flash
+1. Select your image to flash (the hex file from the app directory in this repository)
 
 1. Unplug the Veeb Keeb and reconnect while holding the top-left key (this will set flashing mode on)
 
