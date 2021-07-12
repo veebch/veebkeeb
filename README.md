@@ -1,5 +1,9 @@
 # VeebKeeb
 
+![GitHub Logo](/images/keeb.jpg)
+Format: ![veebkeeb](url)
+
+
 We made a 3x3 macropad, [veebkeeb](https://www.veeb.ch/store/p/customizable-3x3-mechanical-keyboard), based around our specific use-case for needing access to modifier keys while working on Affinity/Adobe software on a Microsoft Surface.
 
 ## One Tweak Beyond
