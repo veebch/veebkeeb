@@ -1,6 +1,6 @@
 # VeebKeeb
 
-![GitHub Logo](/images/keeb.jpg)
+![Action Shot](/images/keeb.jpg)
 Format: ![veebkeeb](url)
 
 
