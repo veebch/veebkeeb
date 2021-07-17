@@ -3,7 +3,7 @@
   ## By Bubblerobot (www.bubblerobot.com)
   
   ### Top Layer
-  
+  ```
   ,--------------------.
   |   [  |   B  |   ]  |
   |------+------+------|
@@ -20,8 +20,9 @@
   L 			= activate layers
   C 			= activate colors and hold to access rgb layer
   <space>	  	= toggle quick menu
-  
+  ```
   ### RGB layer
+  ```
   ,---------------------------------.
   | hue +  | brightness +  | mode + |
   |--------+---------------+--------|
@@ -29,7 +30,7 @@
   |--------+---------------+--------|
   |        | brightness -  | sat -  |
   `---------------------------------'
-
+```
   
  # How to flash
  
