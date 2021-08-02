@@ -2,6 +2,7 @@
 
 ![Action Shot](/images/keeb.jpg)
 
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
 
 We made a simple mechanical keyboard, a 3x3 macropad ([veebkeeb](https://www.veeb.ch/store/p/customizable-3x3-mechanical-keyboard)), based around our specific use-case for needing access to modifier keys while working on Affinity/Adobe software on a Microsoft Surface.
 
@@ -20,6 +21,10 @@ If your use-case differs, you may want to use mappings tailored to your app of c
 1. You should see a 'Atmel DFU device connected' message
 
 1. Flash it (by clicking the ‘Flash’ button) and wait until the Veeb Keeb lights up again (it should only take a few seconds)
+
+## Video
+
+There's a video of it being used with Affinity photo [here](https://www.youtube.com/watch?v=vFSMz1mPoOg)
 
 ## Contributing
 
