@@ -2,9 +2,6 @@
 
 extern MidiDevice midi_device;
 
-#define MIDI_CC_OFF 0
-#define MIDI_CC_ON  127
-
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
   [0] = LAYOUT(MI_C, MI_D, MI_E,
