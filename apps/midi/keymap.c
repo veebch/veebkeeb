@@ -6,7 +6,7 @@ extern MidiDevice midi_device;
 #ifdef RGBLIGHT_ENABLE
 void keyboard_post_init_user(void) {
   rgblight_enable_noeeprom(); // Enables RGB, without saving settings
-  rgblight_sethsv_noeeprom(HSV_PURPLE);
+  rgblight_sethsv_noeeprom(HSV_GOLD);
   rgblight_mode_noeeprom(RGBLIGHT_MODE_STATIC_LIGHT);
 }
 #endif
