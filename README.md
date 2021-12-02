@@ -8,9 +8,9 @@ We made a simple mechanical keyboard, a 3x3 macropad ([veebkeeb](https://www.vee
 
 ## One Tweak Beyond
 
-If your use-case differs, you may want to use mappings tailored to your app of choice. The macropad uses a **ymdk/ymd09** board that can be remapped easily using [qmk_toolbox](https://github.com/qmk/qmk_toolbox). 
+If your use-case differs, you may want to use mappings tailored to your app of choice. The macropad uses a **ymdk/ymd09** board that can be remapped easily using [qmk_toolbox](https://github.com/qmk/qmk_toolbox) or command-line qmk. 
 
-## Re-mapping your veebkeeb with a new keymap
+## Re-mapping your veebkeeb with a new keymap (using qmk toolbox)
 
 1. Open QMK-toolbox
 
