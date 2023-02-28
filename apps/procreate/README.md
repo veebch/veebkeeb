@@ -18,7 +18,7 @@
   <option> Z 		= undo
   <shift> <option> Z 	= redo
   L 			= activate layers
-  C 			= activate colors and hold to access rgb layer
+  C 			= activate colors (hold to access RGB lights on keyboard layer)
   <space>	  	= toggle quick menu
   ```
   ### RGB layer
