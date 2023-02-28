@@ -1,4 +1,4 @@
-# VeebKeeb
+# veebkeeb
 
 ![Action Shot](/images/keeb.jpg)
 
