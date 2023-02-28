@@ -7,7 +7,7 @@
   ,--------------------.
   |   [  |   B  |   ]  |
   |------+------+------|
-  |  o-Z |   A  | so-Z |
+  |  o-Z |   E  | so-Z |
   |------+------+------|
   |   C  |   L  |  sp  |
   `--------------------'
@@ -34,7 +34,7 @@
   
  # How to flash
  
-  1) open QMK-toolbox
+  1) r QMK-toolbox
   2) choose the image to flash
   3) unplug the VEEBKEEB and replug by holding the top-left key (this will set flashing mode on)
   4) you should see a 'Atmel DFU device connected' message
