@@ -4,7 +4,7 @@
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
 
-We made a simple mechanical keyboard, a 3x3 macropad ([veebkeeb](https://www.veeb.ch/store/p/customizable-3x3-mechanical-keyboard)), to access modifier keys while working on Affinity/Adobe software on a Microsoft Surface.
+We made a simple mechanical keyboard, a 3x3 macropad ([veebkeeb](https://www.veeb.ch/store/p/customizable-3x3-mechanical-keyboard)), to access modifier keys while working on Affinity/Adobe software on a Microsoft Surface. That turned out to be handy, and some other shortcuts for commonly used apps were added (in the `apps` directory).
 
 ## One Tweak Beyond
 
