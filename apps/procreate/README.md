@@ -34,10 +34,10 @@
   
  # How to flash
  
-  1) r QMK-toolbox
-  2) choose the image to flash
-  3) unplug the VEEBKEEB and replug by holding the top-left key (this will set flashing mode on)
-  4) you should see a 'Atmel DFU device connected' message
+  1) Install and open the application QMK-toolbox on your computer
+  2) Choose the image to flash 
+  3) Unplug the VEEBKEEB and replug by holding the top-left key (this will set flashing mode on)
+  4) You should see a 'Atmel DFU device connected' message
   5) Flash it and wait until the VEEBKEEB lights up again (should only take a few seconds)
-  6) test repeat tune until it fits your personal needs ...
-  7) enjoy your VEEBKEEB it will prevent from straining your procreate fingers and wrists
+  6) Test repeat tune until it fits your personal needs ...
+  7) Enjoy your VEEBKEEB it will prevent from straining your procreate fingers and wrists
