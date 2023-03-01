@@ -16,7 +16,7 @@
   ] 			= increase brush size by 5%
   B 			= activate paint tool
   <option> Z 		= undo
-  E                      = erase tool
+  E                     = erase tool
   <shift> <option> Z 	= redo
   L 			= activate layers
   C 			= activate colors (hold to access RGB lights on keyboard layer)
