@@ -1,4 +1,8 @@
-  ## top layer
+# OBS Studio keys
+
+This is a simple keymap that just contains the numbers 1-9, more functions can be added with [layers](https://thomasbaart.nl/2018/12/06/qmk-basics-how-to-add-a-layer-to-your-keymap/)
+
+## top layer
 
 |   1  |   2  |   3  |
 |------|------|------|
