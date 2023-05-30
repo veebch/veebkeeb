@@ -10,9 +10,10 @@
 
   ## rgb layer
 
-  | mode - | brightness +  | mode + |
-  | hue +  |               | sat +  |
-  | hue -  | brightness -  | sat -  |
+| mode - | brightness +  | mode + |
+|------|------|------|
+| **hue +**  |               | **sat +**  |
+| **hue -**  | **brightness -**  | **sat -**  |
 
 
   
