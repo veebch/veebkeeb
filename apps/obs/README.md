@@ -27,4 +27,4 @@ This is a simple keymap that just contains the numbers 1-9, more functions can b
   2) choose the `obs.hex` file to flash
   3) unplug the VEEBKEEB and replug by holding the top-left key (this will set flashing mode on)
   4) you should see a 'Atmel DFU device connected' message
-  5) Flash it and wait until the VEEBKEEB lights up again (should only take a few seconds)
+  5) Click "Flash" and wait until the VEEBKEEB lights up again (should only take a few seconds)
