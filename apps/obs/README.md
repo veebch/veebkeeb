@@ -2,7 +2,7 @@
 
 This is a simple keymap that just contains the numbers 1-9, more functions can be added with [layers](https://thomasbaart.nl/2018/12/06/qmk-basics-how-to-add-a-layer-to-your-keymap/).
 
-## top layer
+## Top layer
 
 |   1  |   2  |   3  |
 |------|------|------|
@@ -12,7 +12,7 @@ This is a simple keymap that just contains the numbers 1-9, more functions can b
 
   \* hold for rgb layer
 
-  ## rgb layer
+  ## RGB layer
 
 | mode - | brightness +  | mode + |
 |------|------|------|
