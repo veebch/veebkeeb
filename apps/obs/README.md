@@ -24,7 +24,7 @@ This is a simple keymap that just contains the numbers 1-9, more functions can b
   # How to apply this keymap
   
   1) Install and open [QMK-toolbox](https://github.com/qmk/qmk_toolbox/releases)
-  2) choose the `obs.hex` file to flash
-  3) unplug the VEEBKEEB and replug by holding the top-left key (this will set flashing mode on)
-  4) you should see a 'Atmel DFU device connected' message
+  2) Choose the `obs.hex` file to flash
+  3) Unplug the VEEBKEEB and plug it back in while holding the top-left key (this will set flashing mode on)
+  4) You should see a 'Atmel DFU device connected' message
   5) Click "Flash" and wait until the VEEBKEEB lights up again (should only take a few seconds)
