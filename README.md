@@ -1,4 +1,4 @@
-# veebkeeb
+
 
 ![Action Shot](/images/keeb.jpg)
 
@@ -6,6 +6,8 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v_e_e_b/)
+
+# veebkeeb
 
 We made a simple mechanical keyboard, a 3x3 macropad ([veebkeeb](https://www.veeb.ch/store/p/customizable-3x3-mechanical-keyboard)), to access modifier keys while working on Affinity/Adobe software on a Microsoft Surface. That turned out to be handy, and some other shortcuts for commonly used apps were added (in the [apps](apps/) directory).
 
