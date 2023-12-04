@@ -1,8 +1,9 @@
 # Affinity/Adobe keys
 
 This is a simple keymap that just contains useful keys when using Adobe/Serif tools, more functions can be added with [layers](https://thomasbaart.nl/2018/12/06/qmk-basics-how-to-add-a-layer-to-your-keymap/).
+## Keys
 
-## Top layer
+### Top layer
 
 |   Tab*  |   [  |   ]  |
 |------|------|------|
@@ -12,7 +13,7 @@ This is a simple keymap that just contains useful keys when using Adobe/Serif to
 
   \* hold for RGB layer
 
-  ## RGB layer
+### RGB layer
 
 |  | **mode -**  | mode + |
 |------|------|------|
@@ -21,8 +22,12 @@ This is a simple keymap that just contains useful keys when using Adobe/Serif to
 
 
   
-  # How to apply this keymap
+## Advanced
+
+### How to apply this keymap
   
+Ignore this bit if your keyboard has been pre-configure by us :)
+
   1) Install and open [QMK-toolbox](https://github.com/qmk/qmk_toolbox/releases)
   2) Choose the `obs.hex` file to flash in QMK Toolbox
   3) Unplug the VEEBKEEB and plug it back in *while holding the top-left key* (this will make QMK able to see the keyboard)
