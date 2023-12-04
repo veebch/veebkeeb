@@ -11,7 +11,7 @@ This is a simple keymap that just contains useful keys when using Adobe/Serif to
 |   **Ctrl**  |   **Alt/Option**  |   **GUI**  |
 
 
-  \* hold for RGB layer (To adjust the keyboard lights)
+  \* hold for RGB layer (to adjust the keyboard lights)
 
 ### RGB layer
 
@@ -26,7 +26,7 @@ This is a simple keymap that just contains useful keys when using Adobe/Serif to
 
 ### How to apply this keymap
   
-Ignore this bit if your keyboard has been pre-configure by us :)
+You can ignore this bit if your keyboard has been pre-configure by us :)
 
   1) Install and open [QMK-toolbox](https://github.com/qmk/qmk_toolbox/releases)
   2) Choose the `obs.hex` file to flash in QMK Toolbox
