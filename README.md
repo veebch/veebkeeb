@@ -9,7 +9,7 @@
 
 # veebkeeb
 
-A simple mechanical keyboard, a 3x3 macropad ([veebkeeb](https://www.veeb.ch/store/p/customizable-3x3-mechanical-keyboard)), to access modifier keys while working on Affinity/Adobe software on a Microsoft Surface. 
+A mechanical 3x3 macropad ([veebkeeb](https://www.veeb.ch/store/p/customizable-3x3-mechanical-keyboard)), to access modifier keys while working on Affinity/Adobe software on a Microsoft Surface. 
 
 ## Apps 
 
