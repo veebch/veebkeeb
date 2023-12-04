@@ -17,7 +17,7 @@ Some other shortcuts for commonly used apps were added (in the [apps](apps/) dir
 
 ## One Tweak Beyond
 
-You may want to use mappings tailored to your app of choice. The macropad uses a **ymdk/ymd09** board that can be remapped easily using [qmk_toolbox](https://github.com/qmk/qmk_toolbox) or command-line qmk. 
+You may want to use mappings tailored to your app of choice. The macropad uses a **ymdk/ymd09** board that can be remapped easily using [QMK_toolbox](https://github.com/qmk/qmk_toolbox) or command-line qmk. 
 
 ## Re-mapping your veebkeeb with a new keymap (using qmk toolbox)
 
