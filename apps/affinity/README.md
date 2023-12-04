@@ -11,7 +11,7 @@ This is a simple keymap that just contains useful keys when using Adobe/Serif to
 |   **Ctrl**  |   **Alt/Option**  |   **GUI**  |
 
 
-  \* hold for RGB layer
+  \* hold for RGB layer (To adjust the keyboard lights)
 
 ### RGB layer
 
