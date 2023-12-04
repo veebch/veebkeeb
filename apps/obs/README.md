@@ -10,7 +10,7 @@ This is a simple keymap that just contains the numbers 1-9, more functions can b
 |   **7**  |   **8**  |   **9**  |
 
 
-  \* hold for rgb layer
+  \* hold for RGB layer to change the lights settings
 
   ## RGB layer
 
