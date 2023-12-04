@@ -1,10 +1,10 @@
-# OBS Studio keys
+# Affinity/Adobe keys
 
-This is a simple keymap that just contains the numbers 1-9, more functions can be added with [layers](https://thomasbaart.nl/2018/12/06/qmk-basics-how-to-add-a-layer-to-your-keymap/).
+This is a simple keymap that just contains useful keys when using Adobe/Serif tools, more functions can be added with [layers](https://thomasbaart.nl/2018/12/06/qmk-basics-how-to-add-a-layer-to-your-keymap/).
 
 ## Top layer
 
-|   1*  |   2  |   3  |
+|   Tab*  |   [  |   ]  |
 |------|------|------|
 |   **4**  |   **5** |   **6**  |
 |   **7**  |   **8**  |   **9**  |
@@ -14,7 +14,7 @@ This is a simple keymap that just contains the numbers 1-9, more functions can b
 
   ## RGB layer
 
-| mode - | brightness +  | mode + |
+|  | **mode -**  | mode + |
 |------|------|------|
 | **hue +**  | **brightness +**| **sat +**  |
 | **hue -**  | **brightness -**  | **sat -**  |
