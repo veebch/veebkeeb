@@ -6,8 +6,8 @@ This is a simple keymap that just contains useful keys when using Adobe/Serif to
 
 |   Tab*  |   [  |   ]  |
 |------|------|------|
-|   **4**  |   **5** |   **6**  |
-|   **7**  |   **8**  |   **9**  |
+|   **Shift**  |   **Space** |   **z**  |
+|   **Ctrl**  |   **Alt/Option**  |   **GUI         **  |
 
 
   \* hold for RGB layer
