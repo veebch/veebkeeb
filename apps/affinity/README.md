@@ -7,7 +7,7 @@ This is a simple keymap that just contains useful keys when using Adobe/Serif to
 |   Tab*  |   [  |   ]  |
 |------|------|------|
 |   **Shift**  |   **Space** |   **z**  |
-|   **Ctrl**  |   **Alt/Option**  |   **GUI         **  |
+|   **Ctrl**  |   **Alt/Option**  |   **GUI**  |
 
 
   \* hold for RGB layer
