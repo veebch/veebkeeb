@@ -11,6 +11,9 @@ L2 = Hold for Light Controls
 
 ![keymap](./affinity.png)
 
+
+## Advanced
+
 ### How to apply this keymap
   
 You can ignore this bit if your keyboard has been pre-configure by us :)
