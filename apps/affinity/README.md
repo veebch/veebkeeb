@@ -7,6 +7,7 @@ The keys are split into three layers, which makes the 9 keys have **26** differe
 
 L1 = Hold for Layer 1
 L2 = Hold for Light Controls
+
 ![keymap](./affinity.png)
 
 ### How to apply this keymap
