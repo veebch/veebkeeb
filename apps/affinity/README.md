@@ -16,7 +16,7 @@ L2 = Hold for Light Controls
 
 ### How to apply this keymap
   
-You can ignore this bit if your keyboard has been pre-configure by us :)
+You can ignore this bit if your keyboard has been pre-configured by us :)
 
   1) Install and open [QMK-toolbox](https://github.com/qmk/qmk_toolbox/releases)
   2) Choose the `obs.hex` file to flash in QMK Toolbox
