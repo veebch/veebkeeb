@@ -3,28 +3,9 @@
 This is a simple keymap that just contains useful keys when using Adobe/Serif tools, more functions can be added with [layers](https://thomasbaart.nl/2018/12/06/qmk-basics-how-to-add-a-layer-to-your-keymap/).
 ## Keys
 
-The keys are split into two layers. The Top layer is the default one. These are the ones you will use for shortcuts.
+The keys are split into three layers. The Top layer is the default one. These are the ones you will use for commonly-used modifiers. The second layer controls other commands and cursor keys. The third layer controls the keyboard's lights.
 
-### Top layer
-
-|   Tab*  |   [  |   ]  |
-|------|------|------|
-|   **Shift**  |   **Space** |   **z**  |
-|   **Ctrl**  |   **Alt/Option**  |   **GUI**  |
-
-
-  \* hold for RGB layer (to adjust the keyboard lights)
-
-### RGB layer
-
-|  | **mode -**  | mode + |
-|------|------|------|
-| **hue +**  | **brightness +**| **sat +**  |
-| **hue -**  | **brightness -**  | **sat -**  |
-
-
-  
-## Advanced
+![keymap](/affinity.png)
 
 ### How to apply this keymap
   
