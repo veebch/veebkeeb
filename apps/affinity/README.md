@@ -5,6 +5,8 @@ This is a simple keymap that just contains useful keys when using Adobe/Serif to
 
 The keys are split into three layers, which makes the 9 keys have **26** different commands. The Top layer is the default one. These are the ones you will use for commonly-used modifiers. The second layer controls other commands and cursor keys. The third layer controls the keyboard's lights.
 
+L1 = Hold for Layer 1
+L2 = Hold for Light Controls
 ![keymap](./affinity.png)
 
 ### How to apply this keymap
