@@ -16,13 +16,13 @@ This version has 2 layers, one for backlight control, and one for light adjustme
 
 Hold down the middle key, and the following can be adjusted
 
----------------------------------------
+|--------|------------|---------------|
 | Mode - | Vibrance + | Mode +        |
----------------------------------------
+|--------|------------|---------------|
 | Hue +  | Held       | Saturation +  |
----------------------------------------
+|--------|------------|---------------|
 | Hue -  | Vibrance - | Saturation -  |
----------------------------------------
+|--------|------------|---------------|
 
 # Recompiling 
 
