@@ -4,7 +4,8 @@ This version has 2 layers, one for MIDI, and one for light adjustment. It is a b
 
 ## Midi Layer
 
-
+|     |      |     |
+|---|---|---|
 | C1  |  F1  | B1  |
 | D1  | G1 * | C2  |
 | E1  | A1   | D2  |
