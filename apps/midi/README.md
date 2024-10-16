@@ -38,10 +38,10 @@ Now, copy the keymap.c file to the directory you just created. Once you've done 
 ```
 qmk compile -kb ymdk/ymd09 -km veebch
 ```
-If that all goes to plan, there will be a `.hex` file produced in the directory `qmk_firmware`
+If that all goes to plan, there will be a `.hex` file produced in the directory `~/qmk_firmware`
 
 If you want to flash it straight to the keyboard, make sure the keyboard is in DFU mode (either use the reset on the back or hold down the top left key while plugging in USB) and then issue the command
 ```
 qmk flash -kb ymdk/ymd09 -km veebch
 ```
-If you have problems along the way, the QMK documentation is your friend.
+If you have problems along the way, the [QMK documentation](https://docs.qmk.fm/) is your friend.
