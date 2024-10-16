@@ -1,6 +1,7 @@
 # MIDI
 
-This version has 2 layers, one for MIDI, and one for light adjustment. It is a basic starting point, but you can always recompile using qmk if you want to change things
+This version has 2 layers, one for MIDI, and one for light adjustment. It is a simple starting point, but you can always recompile using QMK
+if you want to change things
 
 ## Midi Layer
 
@@ -11,7 +12,7 @@ This version has 2 layers, one for MIDI, and one for light adjustment. It is a b
 | E1  | A1   | D2  |
 
 
-* hold for RGB layer
+(* hold for RGB layer)
 
 ## RGB Adjustment
 
