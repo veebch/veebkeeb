@@ -1,10 +1,10 @@
 # MIDI
 
-This version has 2 layers, one for backlight control, and one for light adjustment. It is a basic starting point, but you can always recompile using qmk if you want to change things
+This version has 2 layers, one for MIDI, and one for light adjustment. It is a basic starting point, but you can always recompile using qmk if you want to change things
 
 ## Midi Layer
 
-|-----|------|-----|
+
 | C1  |  F1  | B1  |
 | D1  | G1 * | C2  |
 | E1  | A1   | D2  |
@@ -16,7 +16,8 @@ This version has 2 layers, one for backlight control, and one for light adjustme
 
 Hold down the middle key, and the following can be adjusted
 
-|--------|------------|---------------|
+|        |            |               |
+|---|---|---|
 | Mode - | Vibrance + | Mode +        |
 | Hue +  | Held       | Saturation +  |
 | Hue -  | Vibrance - | Saturation -  |
