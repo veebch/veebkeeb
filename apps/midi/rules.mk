@@ -1,3 +1,0 @@
-VIA_ENABLE=yes
-MIDI_ENABLE = yes
-MIDI_BASIC_ENABLE = yes
