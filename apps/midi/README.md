@@ -4,13 +4,13 @@ This version has 2 layers, one for backlight control, and one for light adjustme
 
 ## Midi Layer
 
---------------------
+|-----|------|-----|
 | C1  |  F1  | B1  |
---------------------
 | D1  | G1 * | C2  |
---------------------
 | E1  | A1   | D2  |
---------------------
+
+
+* hold for RGB layer
 
 ## RGB Adjustment
 
@@ -18,11 +18,8 @@ Hold down the middle key, and the following can be adjusted
 
 |--------|------------|---------------|
 | Mode - | Vibrance + | Mode +        |
-|--------|------------|---------------|
 | Hue +  | Held       | Saturation +  |
-|--------|------------|---------------|
 | Hue -  | Vibrance - | Saturation -  |
-|--------|------------|---------------|
 
 # Recompiling 
 
