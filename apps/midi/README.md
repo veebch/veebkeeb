@@ -1,7 +1,7 @@
 # MIDI
 
 This version has 2 layers, one for MIDI, and one for light adjustment. It is a simple starting point, but you can always recompile using QMK
-if you want to change things
+if you want to change things (see the Recompiling section).
 
 ## Midi Layer
 
