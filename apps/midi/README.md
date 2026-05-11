@@ -24,6 +24,10 @@ Hold down the middle key, and the following can be adjusted
 | Hue +  | Held       | Saturation +  |
 | Hue -  | Vibrance - | Saturation -  |
 
+# Flashing the hex file
+
+Instructions are [here](https://github.com/veebch/veebkeeb#re-mapping-your-veebkeeb-with-a-new-keymap-using-qmk-toolbox)
+ 
 # Recompiling 
 
 To get a new hex file, you follow the QMK instructions, but here is a short 'try this first' version 
