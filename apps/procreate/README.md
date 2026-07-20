@@ -33,8 +33,8 @@
   `---------------------------------'
 ```
   
- # How to flash
+ # How to adjust
  
-  1) Go to [vial.rocks](https://vial.rocks) in a broweser
+  1) Go to [vial.rocks](https://vial.rocks) in a browser
   2) Test repeat tune keys/lighting until it fits your personal needs ...
   8) Enjoy your VEEBKEEB
