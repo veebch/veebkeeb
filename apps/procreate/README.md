@@ -1,4 +1,4 @@
-# Procreate iPad Painting Tool — 3x3 Keyboard Layout
+# Procreate iPad Painting Tool - 3x3 Keyboard Layout
 
 By Bubblerobot ([www.bubblerobot.com](https://www.bubblerobot.com))
 
