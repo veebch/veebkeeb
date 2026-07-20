@@ -15,11 +15,6 @@ A mechanical 3x3 macropad ([Macropad 9](https://shop.dirtboy.industries/product/
 
 Some other shortcuts for commonly used apps were added (in the [apps](apps/) directory).
 
-## One Tweak Beyond
-
-You may want to use mappings tailored to your app of choice. The macropad uses a **ymdk/ymd09** board that can be remapped easily using [Vial](https://get.vial.today/).
-
-
 # Video
 
 There's a video of the macropad being used with Affinity photo [here](https://www.youtube.com/watch?v=vFSMz1mPoOg)
