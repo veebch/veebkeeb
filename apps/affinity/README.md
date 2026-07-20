@@ -11,9 +11,3 @@ L2 = Hold for Keyboard Light Controls
 
 ![keymap](./affinity.png)
 
-
- # How to adjust
- 
-  1) Go to [vial.rocks](https://vial.rocks) in a browser
-  2) Tune keys/lighting until it fits your workflow
-  8) Enjoy your VEEBKEEB
