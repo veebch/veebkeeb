@@ -1,22 +1,19 @@
 # OBS Studio keys
 
-This is a simple keymap that just contains the numbers 1-9, more functions can be added with [layers](https://thomasbaart.nl/2018/12/06/qmk-basics-how-to-add-a-layer-to-your-keymap/).
+This is a simple OBS Studio keymap for quick access to common recording and streaming controls. More functions can be added with [layers](https://get.vial.today/docs/feature/layers.html).
 
 ## Top layer
 
-|   1  |   2  |   3  |
+| Start/Stop Recording | Start/Stop Streaming | Save Replay Buffer |
 |------|------|------|
-|   **4**  |   **5**\* |   **6**  |
-|   **7**  |   **8**  |   **9**  |
+| Mute Microphone | **Pause Recording**\* | Mute Desktop Audio |
+| Previous Scene | Next Scene | Toggle Studio Mode |
 
+\* hold for RGB layer to change the lights settings
 
-  \* hold for RGB layer to change the lights settings
+## RGB layer
 
-  ## RGB layer
-
-| mode - | brightness +  | mode + |
+| mode - | brightness + | mode + |
 |------|------|------|
-| **hue +**  |               | **sat +**  |
-| **hue -**  | **brightness -**  | **sat -**  |
-
-
+| **hue +** | | **sat +** |
+| **hue -** | **brightness -** | **sat -** |
