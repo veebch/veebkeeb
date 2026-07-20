@@ -1,6 +1,6 @@
 # App Configurations
  
-The directories contain more information on the keymaps for the various apps.
+The directories contain more information on the keymaps for a variety of popular apps.
   # How to Tweak
 
   One of the things about tools is that they tend evolve over time. If the way you work changes, making adjustments to your keyboard is easy.
