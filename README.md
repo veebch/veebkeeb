@@ -20,10 +20,10 @@ Some other shortcuts for commonly used apps were added (in the [apps](apps/) dir
 You may want to use mappings tailored to your app of choice. The macropad uses a **ymdk/ymd09** board that can be remapped easily using [Vial](https://get.vial.today/).
 
 
-## Video
+# Video
 
 There's a video of the macropad being used with Affinity photo [here](https://www.youtube.com/watch?v=vFSMz1mPoOg)
 
-## Contributing
+# Contributing
 
 To contribute your own keymaps, please fork the repository and use a feature branch. Pull requests are welcome.
