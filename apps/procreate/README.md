@@ -4,15 +4,11 @@ By Bubblerobot ([www.bubblerobot.com](https://www.bubblerobot.com))
 
 ## Top Layer
 
-```
-,--------------------.
-|   [  |   B  |   ]  |
-|------+------+------|
-|  ⌘-Z |   E  | s⌘-Z |
-|------+------+------|
-| MO(1)|   L  |  sp  |
-`--------------------'
-```
+|         |         |         |
+|:-------:|:-------:|:-------:|
+|  `[`    |  `B`    |  `]`    |
+| `⌘-Z`   |  `E`    | `s⌘-Z`  |
+| `MO(1)` |  `L`    | `Space` |
 
 | Key | Function |
 |---|---|
@@ -28,15 +24,11 @@ By Bubblerobot ([www.bubblerobot.com](https://www.bubblerobot.com))
 
 ## RGB Layer (Layer 1)
 
-```
-,---------------------------------.
-| hue +  | brightness +  | mode + |
-|--------+---------------+--------|
-| hue -  |    on/off     | sat +  |
-|--------+---------------+--------|
-|        | brightness -  | sat -  |
-`---------------------------------'
-```
+|              |                  |          |
+|:------------:|:----------------:|:--------:|
+| `hue +`      | `brightness +`   | `mode +` |
+| `hue -`      | `on/off`         | `sat +`  |
+|              | `brightness -`   | `sat -`  |
 
 | Key | Function |
 |---|---|
