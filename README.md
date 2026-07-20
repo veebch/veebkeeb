@@ -9,7 +9,7 @@
 
 # veebkeeb
 
-A mechanical 3x3 macropad ([Macropad 9](https://shop.dirtboy.industries/product/macropad-9)), to access modifier keys while working on Affinity/Adobe software on a Microsoft Surface. 
+A mechanical 3x3 macropad ([Macropad 9](https://shop.dirtboy.industries/product/macropad-9)), to access modifier keys while using apps/devices. 
 
 ## Apps 
 
@@ -17,23 +17,12 @@ Some other shortcuts for commonly used apps were added (in the [apps](apps/) dir
 
 ## One Tweak Beyond
 
-You may want to use mappings tailored to your app of choice. The macropad uses a **ymdk/ymd09** board that can be remapped easily using [QMK_toolbox](https://github.com/qmk/qmk_toolbox) or command-line qmk. 
+You may want to use mappings tailored to your app of choice. The macropad uses a **ymdk/ymd09** board that can be remapped easily using [Vial](https://get.vial.today/).
 
-## Re-mapping your veebkeeb with a new keymap (using qmk toolbox)
-
-1. Open QMK-toolbox
-
-1. Select your image to flash (the hex file from the app directory in this repository)
-
-1. Unplug the Veeb Keeb and reconnect while holding the top-left key (this will set flashing mode on)
-
-1. You should see a 'Atmel DFU device connected' message
-
-1. Flash it (by clicking the ‘Flash’ button) and wait until the Veeb Keeb lights up again (it should only take a few seconds)
 
 ## Video
 
-There's a video of it being used with Affinity photo [here](https://www.youtube.com/watch?v=vFSMz1mPoOg)
+There's a video of the macropad being used with Affinity photo [here](https://www.youtube.com/watch?v=vFSMz1mPoOg)
 
 ## Contributing
 
