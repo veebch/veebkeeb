@@ -1,6 +1,6 @@
 # OBS Studio keys
 
-This is a simple OBS Studio keymap for quick access to common recording and streaming controls. More functions can be added with [layers](https://get.vial.today/docs/feature/layers.html).
+This is a simple OBS Studio keymap for quick access to common recording and streaming controls. More functions can be added with [layers](https://get.vial.today/manual/layers.html).
 
 ## Top layer
 
