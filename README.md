@@ -6,7 +6,7 @@
 
 # KEEB
 
-A [Mechanical 3×3 Macropad](https://shop.dirtboy.industries/product/macropad-9)), to access modifier keys while using apps/devices. 
+A [Mechanical 3×3 Macropad](https://shop.dirtboy.industries/product/macropad-9), to access modifier keys while using apps/devices. 
 
 ## Apps 
 
