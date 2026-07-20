@@ -10,7 +10,7 @@ A [Mechanical 3×3 Macropad](https://shop.dirtboy.industries/product/macropad-9)
 
 ## Apps 
 
-Some other shortcuts for commonly used apps were added (in the [apps](apps/) directory).
+Shortcuts for commonly used apps were can be found in the [apps](apps/) directory.
 
 # Video
 
