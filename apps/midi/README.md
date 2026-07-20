@@ -24,28 +24,8 @@ Hold down the middle key, and the following can be adjusted
 | Hue +  | Held       | Saturation +  |
 | Hue -  | Vibrance - | Saturation -  |
 
-# Flashing the hex file
-
-Instructions are [here](https://github.com/veebch/veebkeeb#re-mapping-your-veebkeeb-with-a-new-keymap-using-qmk-toolbox)
+ # How to adjust
  
-# Recompiling 
-
-To get a new hex file, you follow the QMK instructions, but here is a short 'try this first' version 
-
-```
-cd ~
-git clone https://github.com/qmk/qmk_firmware.git
-qmk setup
-mkdir qmk_firmware/keyboards/ymdk/ymd09/veebch
-```
-Now, copy the keymap.c file to the directory you just created. Once you've done that, compile using
-```
-qmk compile -kb ymdk/ymd09 -km veebch
-```
-If that all goes to plan, there will be a `.hex` file produced in the directory `~/qmk_firmware`
-
-If you want to flash it straight to the keyboard, make sure the keyboard is in DFU mode (either use the reset on the back or hold down the top left key while plugging in USB) and then issue the command
-```
-qmk flash -kb ymdk/ymd09 -km veebch
-```
-If you have problems along the way, the [QMK documentation](https://docs.qmk.fm/) is your friend.
+  1) Go to [vial.rocks](https://vial.rocks) in a browser
+  2) Tune keys/lighting until it fits your workflow
+  8) Enjoy your VEEBKEEB
