@@ -7,7 +7,7 @@ By Bubblerobot ([www.bubblerobot.com](https://www.bubblerobot.com))
 |         |         |         |
 |:-------:|:-------:|:-------:|
 |  `[`    |  `B`    |  `]`    |
-| `⌘-Z`   |  `E`    | `s⌘-Z`  |
+| `⌘-Z`   |  `E`    | `⇧⌘-Z`  |
 | `MO(1)` |  `L`    | `Space` |
 
 | Key | Function |
@@ -17,7 +17,7 @@ By Bubblerobot ([www.bubblerobot.com](https://www.bubblerobot.com))
 | `B` | Activate paint tool |
 | `⌘-Z` (LGUI+Z) | Undo |
 | `E` | Erase tool |
-| `Shift+⌘-Z` | Redo |
+| `⇧⌘-Z` | Redo |
 | `L` | Activate layers |
 | `MO(1)` | Momentarily activate RGB layer (hold to access keyboard RGB lights) |
 | `Space` | Toggle quick menu |
