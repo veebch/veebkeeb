@@ -36,5 +36,5 @@
  # How to adjust
  
   1) Go to [vial.rocks](https://vial.rocks) in a browser
-  2) Test repeat tune keys/lighting until it fits your personal needs ...
+  2) Test repeat tune keys/lighting until it fits your workflow
   8) Enjoy your VEEBKEEB
