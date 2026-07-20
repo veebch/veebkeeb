@@ -7,19 +7,19 @@
   ,--------------------.
   |   [  |   B  |   ]  |
   |------+------+------|
-  |  o-Z |   E  | so-Z |
+  |  ⌘-Z |   E  | s⌘-Z |
   |------+------+------|
-  |   C  |   L  |  sp  |
+  | MO(1)|   L  |  sp  |
   `--------------------'
  
   [ 			= decrease brush size by 5%
   ] 			= increase brush size by 5%
   B 			= activate paint tool
-  <option> Z 		= undo
+  <LGUI> Z 		= undo
   E                    = erase tool
-  <shift> <option> Z 	= redo
+  <shift> <LGUI> Z 	= redo
   L 			= activate layers
-  C 			= activate colors (hold to access RGB lights on keyboard layer)
+  MO(1) 			= activate colors (hold to access RGB lights on keyboard layer)
   <space>	  	= toggle quick menu
   ```
   ### RGB layer
