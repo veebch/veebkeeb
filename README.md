@@ -4,7 +4,7 @@
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
 
-# KEEB
+# VEEBKEEB
 
 A [Mechanical 3×3 Macropad](https://shop.dirtboy.industries/product/macropad-9), to access modifier keys while using apps/devices. Using [layers](https://get.vial.today/manual/layers.html) is how to make the most of 9 keys.
 
