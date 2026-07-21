@@ -6,7 +6,7 @@
 
 # KEEB
 
-A [Mechanical 3×3 Macropad](https://shop.dirtboy.industries/product/macropad-9), to access modifier keys while using apps/devices. 
+A [Mechanical 3×3 Macropad](https://shop.dirtboy.industries/product/macropad-9), to access modifier keys while using apps/devices. Using [layers](https://get.vial.today/manual/layers.html) is how to make the most of 9 keys.
 
 ## Apps 
 
